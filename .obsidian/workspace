@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "ed216a7a3f82267b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a712c7dd518495",
+        "type": "leaf",
+        "dimension": 48.92086330935252,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第二章程序结构笔记.md.md",
+            "mode": "source"
+          }
+        },
+        "group": "b5f05964d7716b88"
+      },
+      {
+        "id": "bac387c4801c365c",
+        "type": "leaf",
+        "dimension": 51.07913669064748,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第二章程序结构笔记.md.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b5f05964d7716b88"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7529b52d9ffa27b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ac73911285201c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fab12cc6b9a0b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d82e86d7eba625a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0f47cf07e440fbf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e05edaa14331da49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d688dee91a015bf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第二章程序结构笔记.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "第一章笔记.md"
+  ]
+}
